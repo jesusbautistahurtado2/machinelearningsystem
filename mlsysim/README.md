@@ -4,9 +4,9 @@
 >
 > MLSys·im shipped with the **2026** MLSysBook refresh. The analytical modeling framework, APIs, and lab integrations are **actively iterated** as we harden the package and teaching workflows.
 >
-> **Feedback** — [GitHub issues](https://github.com/harvard-edge/cs249r_book/issues) or pull requests.
+> **Feedback** — [GitHub issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or pull requests.
 >
-> [![dev branch](https://img.shields.io/badge/branch-dev-orange?logo=git&logoColor=white)](https://github.com/harvard-edge/cs249r_book/tree/dev) [![live site](https://img.shields.io/badge/live_site-mlsysbook.ai-blue?logo=safari&logoColor=white)](https://mlsysbook.ai)
+> [![dev branch](https://img.shields.io/badge/branch-dev-orange?logo=git&logoColor=white)](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev) [![live site](https://img.shields.io/badge/live_site-mlsysbook.ai-blue?logo=safari&logoColor=white)](https://mlsysbook.ai)
 <!-- EARLY-RELEASE-CALLOUT:END -->
 
 <div align="center">
@@ -20,7 +20,7 @@
     <a href="https://mlsysbook.ai/mlsysim"><img src="https://img.shields.io/badge/docs-mlsysbook.ai%2Fmlsysim-blue?logo=quarto&logoColor=white" alt="Documentation"></a>
   </p>
   <p>
-    <code>pip install mlsysim</code> · <a href="https://mlsysbook.ai/mlsysim">Documentation</a> · <a href="https://mlsysbook.ai/mlsysim/getting-started.html">Getting Started</a> · <a href="https://github.com/harvard-edge/cs249r_book/issues">Issues</a>
+    <code>pip install mlsysim</code> · <a href="https://mlsysbook.ai/mlsysim">Documentation</a> · <a href="https://mlsysbook.ai/mlsysim/getting-started.html">Getting Started</a> · <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/issues">Issues</a>
   </p>
 </div>
 

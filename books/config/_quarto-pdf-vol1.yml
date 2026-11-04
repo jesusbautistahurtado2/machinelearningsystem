@@ -47,7 +47,7 @@ book:
 
     Throughout, quantitative reasoning is the primary instrument. Every design decision is examined in terms of measurable consequences — latency, throughput, memory capacity, and energy — because understanding a system means understanding what constrains it. Readers develop the capacity to diagnose system bottlenecks, apply hardware-aware optimization techniques, and deploy models into production with principled engineering judgment. Suitable for advanced undergraduates and graduate students in computer science and engineering, and for practitioners seeking a principled foundation for ML systems design.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

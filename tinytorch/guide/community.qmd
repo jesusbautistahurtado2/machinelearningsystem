@@ -94,7 +94,7 @@ Built something impressive with TinyTorch?
 
 **Share it with the community:**
 
-- Post in [GitHub Discussions](https://github.com/harvard-edge/cs249r_book/discussions) under "Show and Tell"
+- Post in [GitHub Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) under "Show and Tell"
 - Tag us on social media with #TinyTorch
 
 **Exceptional projects may be featured:**
@@ -106,6 +106,6 @@ Built something impressive with TinyTorch?
 
 ## Stay Updated
 
-**GitHub Watch**: [Enable notifications](https://github.com/harvard-edge/cs249r_book) for releases and updates
+**GitHub Watch**: [Enable notifications](https://github.com/jesusbautistahurtado2/machinelearningsystem) for releases and updates
 
-**Follow Development**: Check [GitHub Issues](https://github.com/harvard-edge/cs249r_book/issues) for roadmap and upcoming features
+**Follow Development**: Check [GitHub Issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) for roadmap and upcoming features

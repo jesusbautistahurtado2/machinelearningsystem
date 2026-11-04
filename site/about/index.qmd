@@ -62,17 +62,17 @@ It started with one course at one university in 2020. Within two years, ten univ
 
 ```{=html}
 <div style="text-align: center; margin: 1.5rem 0 2rem; background: var(--ab-card-bg); border: 1px solid var(--ab-border); border-radius: 12px; padding: 1.5rem;">
-  <a href="https://www.star-history.com/?repos=harvard-edge%2Fcs249r_book&type=date&legend=top-left" target="_blank" rel="noopener">
+  <a href="https://www.star-history.com/?repos=jesusbautistahurtado2%2Fmachinelearningsystem&type=date&legend=top-left" target="_blank" rel="noopener">
     <img id="star-history-img"
-         src="https://api.star-history.com/image?repos=harvard-edge/cs249r_book&type=date&legend=top-left"
+         src="https://api.star-history.com/image?repos=jesusbautistahurtado2/machinelearningsystem&type=date&legend=top-left"
          alt="GitHub star growth chart showing adoption over time"
          style="max-width: 550px; width: 100%; border-radius: 6px;"
          loading="lazy" />
   </a>
   <script>
   (function () {
-    var DARK_SRC  = "https://api.star-history.com/image?repos=harvard-edge/cs249r_book&type=date&theme=dark&legend=top-left";
-    var LIGHT_SRC = "https://api.star-history.com/image?repos=harvard-edge/cs249r_book&type=date&legend=top-left";
+    var DARK_SRC  = "https://api.star-history.com/image?repos=jesusbautistahurtado2/machinelearningsystem&type=date&theme=dark&legend=top-left";
+    var LIGHT_SRC = "https://api.star-history.com/image?repos=jesusbautistahurtado2/machinelearningsystem&type=date&legend=top-left";
     var img = document.getElementById("star-history-img");
     function syncSrc() {
       if (!img) return;
@@ -87,7 +87,7 @@ It started with one course at one university in 2020. Within two years, ten univ
     observer.observe(document.body, { attributes: true, attributeFilter: ["class"] });
   })();
   </script>
-  <p style="color: var(--ab-text-muted); font-size: 0.85rem; margin: 1rem 0 0;">Everything here is free. Our only ask is a <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener" style="color: var(--ab-accent); font-weight: 600;">⭐ star on GitHub</a>. It tells universities, publishers, and funders that AI engineering education matters.</p>
+  <p style="color: var(--ab-text-muted); font-size: 0.85rem; margin: 1rem 0 0;">Everything here is free. Our only ask is a <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem" target="_blank" rel="noopener" style="color: var(--ab-accent); font-weight: 600;">⭐ star on GitHub</a>. It tells universities, publishers, and funders that AI engineering education matters.</p>
 </div>
 </div>
 ```
@@ -162,7 +162,7 @@ These principles guide every chapter, lab, and lecture deck in the curriculum:
     <div class="timeline-year">2022</div>
     <div class="timeline-content">
       <h3>Open-source on GitHub</h3>
-      <p>The textbook is published as an <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener">open repository</a>. Educators and students from around the world begin contributing: fixing examples, proposing chapters, translating content. A second cohort doubles the TinyML4D network to 40+ universities.</p>
+      <p>The textbook is published as an <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem" target="_blank" rel="noopener">open repository</a>. Educators and students from around the world begin contributing: fixing examples, proposing chapters, translating content. A second cohort doubles the TinyML4D network to 40+ universities.</p>
     </div>
   </div>
   <div class="timeline-item">

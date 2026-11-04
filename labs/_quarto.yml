@@ -87,7 +87,7 @@ website:
           - text: "---"
           - icon: github
             text: "View Source"
-            href: https://github.com/harvard-edge/cs249r_book/tree/dev/labs
+            href: https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev/labs
             target: _blank
 
   sidebar:

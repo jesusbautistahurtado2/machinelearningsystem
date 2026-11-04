@@ -43,7 +43,7 @@ book:
   abstract: |
     Physical AI systems engineering is governed by the non-negotiable laws of Newtonian physics, irreversible dynamics, and hard real-time latency. Unlike software behind glass where computation enjoys idempotency and memory rollbacks, physical autonomous machines pay for computational delay in millimeters and kinetic destruction.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

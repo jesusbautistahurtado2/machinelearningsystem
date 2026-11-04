@@ -63,7 +63,7 @@
 #
 # SOURCE
 # ------
-#   https://github.com/harvard-edge/cs249r_book (tinytorch/ subdirectory)
+#   https://github.com/jesusbautistahurtado2/machinelearningsystem (tinytorch/ subdirectory)
 #
 # ============================================================================
 
@@ -85,7 +85,7 @@ set -e  # Exit on any error
 #     TINYTORCH_VERSION=0.1.5 ./install.sh      # install release tag tinytorch-v0.1.5
 #     TINYTORCH_REF=<tag-or-sha> ./install.sh   # exact tag or full commit SHA
 #     TINYTORCH_NON_INTERACTIVE=1 ./install.sh  # Skip all prompts (for CI)
-REPO_SHORT="${TINYTORCH_REPO:-harvard-edge/cs249r_book}"
+REPO_SHORT="${TINYTORCH_REPO:-jesusbautistahurtado2/machinelearningsystem}"
 REPO_URL="${TINYTORCH_REPO_URL:-https://github.com/${REPO_SHORT}.git}"
 TAGS_API="https://api.github.com/repos/${REPO_SHORT}/tags"
 TAG_PREFIX="tinytorch-v"
@@ -119,7 +119,7 @@ TINYTORCH_VERSION="${TINYTORCH_VERSION:-$TINYTORCH_DEFAULT_VERSION}"
 # them should ever be reached in a healthy environment; they exist purely so
 # that a broken environment produces a clear, timed-out error message instead
 # of an installer that just sits there forever with no output and no way to
-# tell what's wrong. See https://github.com/harvard-edge/cs249r_book/issues/1960
+# tell what's wrong. See https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1960
 PYTHON_CHECK_TIMEOUT=5      # Detecting/validating a python command
 NETWORK_CHECK_TIMEOUT=15    # Checking GitHub is reachable
 CLONE_TIMEOUT=120           # Downloading TinyTorch (shallow sparse clone)
@@ -196,7 +196,7 @@ command_exists() {
 # manager waiting on a credential prompt nobody can answer) fails loudly
 # after a bounded wait instead of freezing this installer forever with no
 # output. That silent-forever failure is exactly what was reported in
-# https://github.com/harvard-edge/cs249r_book/issues/1960: the script
+# https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1960: the script
 # printed "Git OK" and then simply never continued, with no error at all.
 #
 # Usage: run_with_timeout <seconds> <command> [args...]
@@ -1032,7 +1032,7 @@ Environment Variables:
   TINYTORCH_INSTALL_DIR     Target installation directory
   TINYTORCH_VERSION         Release to install (tag tinytorch-v<version>)
   TINYTORCH_NON_INTERACTIVE Set to 1 to skip interactive prompts
-  TINYTORCH_REPO            GitHub repository (default: harvard-edge/cs249r_book)
+  TINYTORCH_REPO            GitHub repository (default: jesusbautistahurtado2/machinelearningsystem)
 
 Examples:
   # Standard installation (latest release):

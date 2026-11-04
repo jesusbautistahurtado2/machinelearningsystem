@@ -42,7 +42,7 @@ From there, the workflow does everything:
 7. **Docs redeploy** — dispatches `mlsysim-publish-live.yml` on `dev` so the
    docs site reflects the new version.
 
-Monitor the run: <https://github.com/harvard-edge/cs249r_book/actions/workflows/mlsysim-pypi-publish.yml>
+Monitor the run: <https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/mlsysim-pypi-publish.yml>
 
 ## Pre-release checklist (before tagging)
 
@@ -80,7 +80,7 @@ configured on pypi.org. Do this once:
    |-------------|----------------------------|
    | PyPI Project name | `mlsysim`            |
    | Owner       | `harvard-edge`             |
-   | Repository name  | the name in `harvard-edge/cs249r_book` |
+   | Repository name  | the name in `jesusbautistahurtado2/machinelearningsystem` |
    | Workflow name    | `mlsysim-pypi-publish.yml` |
    | Environment name | `pypi-mlsysim`        |
 
@@ -146,10 +146,10 @@ make clean && make build
 twine check dist/*
 twine upload dist/*                  # requires ~/.pypirc with scoped token
 gh release create mlsysim-vX.Y.Z \
-  --repo harvard-edge/cs249r_book \
+  --repo jesusbautistahurtado2/machinelearningsystem \
   --title "MLSys·im X.Y.Z" \
   --notes-file RELEASE_NOTES_X.Y.Z.md \
   dist/mlsysim-X.Y.Z-py3-none-any.whl \
   dist/mlsysim-X.Y.Z.tar.gz
-gh workflow run mlsysim-publish-live.yml -R harvard-edge/cs249r_book --ref dev
+gh workflow run mlsysim-publish-live.yml -R jesusbautistahurtado2/machinelearningsystem --ref dev
 ```

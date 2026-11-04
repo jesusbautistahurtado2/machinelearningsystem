@@ -20,8 +20,8 @@ them, the drift was invisible. They are gone; edit the live pair instead.
 ## Launch URLs
 
 ```
-Binder: https://mybinder.org/v2/gh/harvard-edge/cs249r_book/main
-Colab:  https://colab.research.google.com/github/harvard-edge/cs249r_book/blob/main/tinytorch/<path>.ipynb
+Binder: https://mybinder.org/v2/gh/jesusbautistahurtado2/machinelearningsystem/main
+Colab:  https://colab.research.google.com/github/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/<path>.ipynb
 ```
 
 The module pages link to Binder with a `labpath` pointing at that module's

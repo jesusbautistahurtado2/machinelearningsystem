@@ -30,7 +30,7 @@ TinyTorch is usable today for self-paced learning and active course pilots. APIs
 <a href="getting-started.qmd" class="btn-tinytorch">Start Building →</a>
 </div>
 <div style="text-align: center; margin: 0 0 2.5rem 0;">
-<a href="https://github.com/harvard-edge/cs249r_book?tab=readme-ov-file#support-this-work" target="_blank" class="star-link">
+<a href="https://github.com/jesusbautistahurtado2/machinelearningsystem?tab=readme-ov-file#support-this-work" target="_blank" class="star-link">
 <span><i class="fa-regular fa-star"></i></span>
 
 <span id="star-count-hero" style="font-weight: 600; white-space: nowrap; flex-shrink: 0;">{{stats.stars}}</span>
@@ -367,12 +367,12 @@ See learners building ML systems worldwide
 Add yourself to the map · Share your progress · Connect with builders
 </p>
 <p style="color: #fbbf24; margin: 0 0 1.5rem 0; font-size: 0.9rem;">
-Part of the <a href="https://github.com/harvard-edge/cs249r_book?tab=readme-ov-file#support-this-work" target="_blank" style="color: #fbbf24; text-decoration: underline;">MLSysBook</a> project. GitHub stars help the project find support for free ML education.
+Part of the <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem?tab=readme-ov-file#support-this-work" target="_blank" style="color: #fbbf24; text-decoration: underline;">MLSysBook</a> project. GitHub stars help the project find support for free ML education.
 </p>
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; align-items: center;">
 <a href="community.qmd" class="btn-tinytorch">Join the Community</a>
-<a href="https://github.com/harvard-edge/cs249r_book" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 1rem;"><i class="fa-regular fa-star"></i> Star on GitHub <span id="star-count" style="background: rgba(249,115,22,0.3); padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.85rem; color: #fbbf24;">{{stats.stars}}</span></a>
-<a href="https://github.com/harvard-edge/cs249r_book/discussions/1076" target="_blank" style="display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 0.75rem 2rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 1rem;"><i class="fa-regular fa-comments"></i> Discuss on GitHub</a>
+<a href="https://github.com/jesusbautistahurtado2/machinelearningsystem" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 1rem;"><i class="fa-regular fa-star"></i> Star on GitHub <span id="star-count" style="background: rgba(249,115,22,0.3); padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.85rem; color: #fbbf24;">{{stats.stars}}</span></a>
+<a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions/1076" target="_blank" style="display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 0.75rem 2rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 1rem;"><i class="fa-regular fa-comments"></i> Discuss on GitHub</a>
 <a href="#" onclick="event.preventDefault(); if(window.openSubscribeModal) openSubscribeModal();" style="display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 0.75rem 2rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 1rem;"><i class="fa-regular fa-envelope"></i> Get Updates</a>
 </div>
 </div>

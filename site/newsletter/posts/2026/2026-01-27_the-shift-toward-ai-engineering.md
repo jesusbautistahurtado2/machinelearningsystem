@@ -100,7 +100,7 @@ Vijay
 
 The MLSys Book, TinyTorch, and the TinyML Kit materials are freely available. Their ongoing development is supported by Harvard, [community donations](https://opencollective.com/mlsysbook), industry sponsorship, and partnerships.
 
-Many people support the project simply by giving it [GitHub ⭐ stars](https://github.com/harvard-edge/cs249r_book) and providing feedback.
+Many people support the project simply by giving it [GitHub ⭐ stars](https://github.com/jesusbautistahurtado2/machinelearningsystem) and providing feedback.
 
 **Sources:**
 

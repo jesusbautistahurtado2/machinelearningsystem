@@ -125,7 +125,7 @@ dataset, evaluator, and target contract match. Performance bars and improvement
 percentages require the same checkpoint lineage and complete comparison
 fingerprint as well. The dashboard lists the mismatched boundary when a
 comparison is invalid. See the
-[result comparison example](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/examples/04-result-comparison)
+[result comparison example](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/examples/04-result-comparison)
 for a compatible rerun and an intentionally blocked batch-size change.
 
 ## Verifying and Packaging a Submission

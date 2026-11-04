@@ -37,8 +37,8 @@ SCRIPTS = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPTS))
 import build_adopters as ba  # noqa: E402
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "harvard-edge/cs249r_book")
-CODE_QUERIES = ['"mlsysbook.ai"', '"harvard-edge.github.io/cs249r_book"', '"cs249r_book"']
+REPO = os.environ.get("GITHUB_REPOSITORY", "jesusbautistahurtado2/machinelearningsystem")
+CODE_QUERIES = ['"mlsysbook.ai"', '"jesusbautistahurtado2.github.io/machinelearningsystem"', '"cs249r_book"']
 REPO_QUERIES = ["mlsysbook in:readme,description", "cs249r in:readme,description",
                 "\"machine learning systems\" janapa in:readme"]
 COURSE_CODE = re.compile(r"\b[A-Za-z]{2,5}[\s_-]?\d{3,4}[A-Za-z]?\b")

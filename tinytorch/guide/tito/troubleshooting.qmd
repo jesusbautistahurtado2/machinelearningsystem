@@ -77,4 +77,4 @@ tito system health
 
 ## Still stuck
 
-Search or open an issue on [GitHub](https://github.com/harvard-edge/cs249r_book/issues), with the command you ran, the full error, your operating system, and the output of `tito system info`.
+Search or open an issue on [GitHub](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues), with the command you ran, the full error, your operating system, and the output of `tito system info`.

@@ -12,20 +12,20 @@
 
 <!-- Build Status -->
 <p align="center">
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/book-validate-dev.yml?branch=dev&label=Book&logo=githubactions&cacheSeconds=300" alt="Book"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/tinytorch-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/tinytorch-validate-dev.yml?branch=dev&label=TinyTorch&logo=python&cacheSeconds=300" alt="TinyTorch"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/labs-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/labs-validate-dev.yml?branch=dev&label=Labs&logo=jupyter&cacheSeconds=300" alt="Labs"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/kits-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/kits-validate-dev.yml?branch=dev&label=Kits&logo=arduino&cacheSeconds=300" alt="Kits"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/mlsysim-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/mlsysim-validate-dev.yml?branch=dev&label=MLSys%C2%B7im&logo=python&cacheSeconds=300" alt="MLSys·im"></a></br>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/slides-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/slides-validate-dev.yml?branch=dev&label=Slides&logo=googleslides&cacheSeconds=300" alt="Slides"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/instructors-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/instructors-validate-dev.yml?branch=dev&label=Instructors&logo=googleclassroom&cacheSeconds=300" alt="Instructors"></a>
-  <a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/staffml-preview-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/staffml-preview-dev.yml?branch=dev&label=StaffML&logo=target&cacheSeconds=300" alt="StaffML"></a>
-  <img src="https://img.shields.io/github/last-commit/harvard-edge/cs249r_book/dev?label=Updated&logo=git&cacheSeconds=300" alt="Updated">
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/book-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/book-validate-dev.yml?branch=dev&label=Book&logo=githubactions&cacheSeconds=300" alt="Book"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/tinytorch-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/tinytorch-validate-dev.yml?branch=dev&label=TinyTorch&logo=python&cacheSeconds=300" alt="TinyTorch"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/labs-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/labs-validate-dev.yml?branch=dev&label=Labs&logo=jupyter&cacheSeconds=300" alt="Labs"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/kits-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/kits-validate-dev.yml?branch=dev&label=Kits&logo=arduino&cacheSeconds=300" alt="Kits"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/mlsysim-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/mlsysim-validate-dev.yml?branch=dev&label=MLSys%C2%B7im&logo=python&cacheSeconds=300" alt="MLSys·im"></a></br>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/slides-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/slides-validate-dev.yml?branch=dev&label=Slides&logo=googleslides&cacheSeconds=300" alt="Slides"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/instructors-validate-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/instructors-validate-dev.yml?branch=dev&label=Instructors&logo=googleclassroom&cacheSeconds=300" alt="Instructors"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/staffml-preview-dev.yml"><img src="https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/staffml-preview-dev.yml?branch=dev&label=StaffML&logo=target&cacheSeconds=300" alt="StaffML"></a>
+  <img src="https://img.shields.io/github/last-commit/jesusbautistahurtado2/machinelearningsystem/dev?label=Updated&logo=git&cacheSeconds=300" alt="Updated">
 </p>
 
 <!-- Meta -->
 <p align="center">
-  <a href="https://github.com/harvard-edge/cs249r_book/blob/dev/LICENSE.md"><img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/LICENSE.md"><img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg" alt="License"></a>
   <a href="#-citation--license"><img src="https://img.shields.io/badge/Cite-IEEE%202024-blue?logo=ieee" alt="Cite"></a>
   <a href="https://opencollective.com/mlsysbook"><img src="https://img.shields.io/badge/Fund%20Us-Open%20Collective-blue.svg?logo=open-collective" alt="Fund Us"></a>
 </p>
@@ -74,7 +74,7 @@
 
 **DEPLOY** 选择[硬件套件](https://mlsysbook.ai/kits)，在 Arduino、Raspberry Pi 等边缘设备上进行实验。
 
-**CONNECT** 在[Discussions](https://github.com/harvard-edge/cs249r_book/discussions)中打声招呼，我们会尽快回复。
+**CONNECT** 在[Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)中打声招呼，我们会尽快回复。
 
 ---
 
@@ -209,13 +209,13 @@ AI 的发展速度如闪电般，但支撑其运行的工程模块并不会像�
 
 每一个星标代表一位相信 AI 系统应在严格且真实约束下进行工程化的学习者、教育者或支持者。
 
-[![Stars](https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=for-the-badge&logo=github&color=gold)](https://github.com/harvard-edge/cs249r_book/stargazers)
+[![Stars](https://img.shields.io/github/stars/jesusbautistahurtado2/machinelearningsystem?style=for-the-badge&logo=github&color=gold)](https://github.com/jesusbautistahurtado2/machinelearningsystem/stargazers)
 
-<a href="https://star-history.com/#harvard-edge/cs249r_book&Date">
+<a href="https://star-history.com/#jesusbautistahurtado2/machinelearningsystem&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=harvard-edge/cs249r_book&type=date&legend=top-left&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=harvard-edge/cs249r_book&type=date&legend=top-left">
-    <img src="https://api.star-history.com/chart?repos=harvard-edge/cs249r_book&type=date&legend=top-left" alt="Star History Chart">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jesusbautistahurtado2/machinelearningsystem&type=date&legend=top-left&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jesusbautistahurtado2/machinelearningsystem&type=date&legend=top-left">
+    <img src="https://api.star-history.com/chart?repos=jesusbautistahurtado2/machinelearningsystem&type=date&legend=top-left" alt="Star History Chart">
   </picture>
 </a>
 
@@ -251,7 +251,7 @@ All contributions go to [Open Collective](https://opencollective.com/mlsysbook),
 | [🔥 **TinyTorch**](https://mlsysbook.ai/tinytorch) | 从零实现机器学习框架 |
 | [🔧 **Hardware Kits**](https://mlsysbook.ai/kits) | 部署至 Arduino、Raspberry Pi、边缘设备 |
 | [🌐 **Ecosystem**](https://mlsysbook.org) | 资源、研讨会、社区 |
-| [💬 **Discussions**](https://github.com/harvard-edge/cs249r_book/discussions) | 提问与想法 |
+| [💬 **Discussions**](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) | 提问与想法 |
 
 ---
 
@@ -264,8 +264,8 @@ All contributions go to [Open Collective](https://opencollective.com/mlsysbook),
 | 修正错别字或改进章节 | [binder/docs/CONTRIBUTING.md](../binder/docs/CONTRIBUTING.md) |
 | 添加 TinyTorch 模块或修复 bug | [tinytorch/CONTRIBUTING.md](../tinytorch/CONTRIBUTING.md) |
 | 改进硬件实验 | [kits/README.md](../kits/README.md) |
-| 报告问题 | [GitHub Issues](https://github.com/harvard-edge/cs249r_book/issues) |
-| 提问 | [GitHub Discussions](https://github.com/harvard-edge/cs249r_book/discussions) |
+| 报告问题 | [GitHub Issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) |
+| 提问 | [GitHub Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) |
 
 ---
 
@@ -309,7 +309,7 @@ All contributions go to [Open Collective](https://opencollective.com/mlsysbook),
 
 <div align="center">
 
-<b><a href="https://buttondown.email/mlsysbook">✉️ 订阅更新</a> • <a href="https://github.com/harvard-edge/cs249r_book/discussions">💬 参与讨论</a> • <a href="https://mlsysbook.ai/">🌐 访问 mlsysbook.ai</a></b>
+<b><a href="https://buttondown.email/mlsysbook">✉️ 订阅更新</a> • <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions">💬 参与讨论</a> • <a href="https://mlsysbook.ai/">🌐 访问 mlsysbook.ai</a></b>
 
 <i>本教材由 MLSysBook 社区倾情打造。</i>
 

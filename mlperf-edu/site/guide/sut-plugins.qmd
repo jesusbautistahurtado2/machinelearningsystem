@@ -40,7 +40,7 @@ or release-validation path.
 ## Scope of the Three Labs
 
 The repository ships three independent exercises under
-[`examples/`](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/examples):
+[`examples/`](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/examples):
 
 | **Lab** | **File** | **Current execution model** |
 |:---|:---|:---|
@@ -80,6 +80,6 @@ not create a quality-approved checkpoint.
 
 The candidate public-result contract distinguishes score-bearing,
 performance-bearing, and systems-only workloads. See
-[`PUBLIC_RULES.md`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/PUBLIC_RULES.md)
+[`PUBLIC_RULES.md`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/PUBLIC_RULES.md)
 and run `uv run mlperf audit --policy public` before treating a registered result
 as a public candidate.

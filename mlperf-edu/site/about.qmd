@@ -43,7 +43,7 @@ wording must also pass the applicable gates. The
 ## Single Source of Truth
 
 Every generated benchmark page comes from the
-[workload registry](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/registry),
+[workload registry](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/registry),
 which is also consumed by the harness. The CLI reference comes from the CLI's
 own help output. CI fails when native registry files, compatibility mirrors,
 review packets, or generated documentation drift.
@@ -57,14 +57,14 @@ component license for package publication, package-index publication, and
 MLCommons decisions about naming and result wording.
 
 Development happens in the
-[harvard-edge/cs249r_book repository](https://github.com/harvard-edge/cs249r_book). Feedback
+[jesusbautistahurtado2/machinelearningsystem repository](https://github.com/jesusbautistahurtado2/machinelearningsystem). Feedback
 is welcome on the
-[issue tracker](https://github.com/harvard-edge/cs249r_book/issues).
+[issue tracker](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues).
 
 ## Citing
 
 The draft companion paper, *MLPerf EDU: Bridging Industry Benchmarking and ML
 Systems Education*, lives under
-[`paper/`](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/paper).
+[`paper/`](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/paper).
 It is not yet an archival benchmark citation. A stable citation will accompany
 a reviewed release.

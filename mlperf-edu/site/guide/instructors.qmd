@@ -81,12 +81,12 @@ Labs 1 and 3 run their own training comparisons. [Lab 2](sut-plugins.qmd)
 implements `SUT_Interface` and drives it locally, but the product CLI has no generic
 `--sut` plugin-loading option. Lab output must not be presented as a
 canonical benchmark artifact. The
-[assignment package example](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/examples/05-assignment-package)
+[assignment package example](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/examples/05-assignment-package)
 shows a portable functional artifact and contract-grading path without
 redistributing a score-bearing dataset. Examples 2 and 3 carry the authoritative
 quality work.
 
-The [numbered classroom sequence](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/examples)
+The [numbered classroom sequence](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/examples)
 covers suite health, a controlled inference tradeoff, training-to-inference
 lineage, compatibility-checked result comparison, and portable assignment
 grading. Every example includes allowed changes, interpretation questions, and

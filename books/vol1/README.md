@@ -175,7 +175,7 @@ If you are an instructor adopting this for a course, the natural division is:
 
 ## Feedback
 
-If you spot an error, find an explanation that could be clearer, or have a suggestion, please [open an issue](https://github.com/harvard-edge/cs249r_book/issues) or [start a discussion](https://github.com/harvard-edge/cs249r_book/discussions). Even small corrections make the book better for every reader.
+If you spot an error, find an explanation that could be clearer, or have a suggestion, please [open an issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or [start a discussion](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions). Even small corrections make the book better for every reader.
 
 ## Links
 
@@ -205,7 +205,7 @@ If you spot an error, find an explanation that could be clearer, or have a sugge
     </tr>
     <tr>
       <td><b>Discussions</b></td>
-      <td><a href="https://github.com/harvard-edge/cs249r_book/discussions">GitHub Discussions</a></td>
+      <td><a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions">GitHub Discussions</a></td>
     </tr>
   </tbody>
 </table>

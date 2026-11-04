@@ -103,4 +103,4 @@ Vijay
 
 *P.P.S. [MLSys 2026](https://mlsys.org) runs this week, the conference where much of the systems-side work this newsletter covers gets first aired. If you are attending and would like to say hello, drop me a note. If you are not familiar with MLSys, it is worth knowing about; the proceedings are open.*
 
-[MLSysBook](https://mlsysbook.ai) · [Subscribe](https://mlsysbook.ai/newsletter/) · [TinyTorch](https://mlsysbook.ai/tinytorch/) · [MLSys·im](https://mlsysbook.ai/mlsysim) · [StaffML](https://staffml.ai) · [GitHub](https://github.com/harvard-edge/cs249r_book) · [LinkedIn announcement](https://www.linkedin.com/in/vijay-janapa-reddi-63a6a173/)
+[MLSysBook](https://mlsysbook.ai) · [Subscribe](https://mlsysbook.ai/newsletter/) · [TinyTorch](https://mlsysbook.ai/tinytorch/) · [MLSys·im](https://mlsysbook.ai/mlsysim) · [StaffML](https://staffml.ai) · [GitHub](https://github.com/jesusbautistahurtado2/machinelearningsystem) · [LinkedIn announcement](https://www.linkedin.com/in/vijay-janapa-reddi-63a6a173/)

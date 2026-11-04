@@ -22,7 +22,7 @@ set -e
 # Defaults
 BRANCH="main"
 CI_MODE=false
-REPO="${GITHUB_REPOSITORY:-harvard-edge/cs249r_book}"
+REPO="${GITHUB_REPOSITORY:-jesusbautistahurtado2/machinelearningsystem}"
 
 # Parse arguments
 while [[ $# -gt 0 ]]; do

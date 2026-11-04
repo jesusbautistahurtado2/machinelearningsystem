@@ -407,7 +407,7 @@ h4.cluster-heading::after {
 <div class="action-row">
   <a href="vol1/lab_01_ml_intro/" class="btn-accent">Launch Lab 01 &rarr;</a>
   <a href="vol1/lab_00_introduction/" class="btn-outline">Start Orientation</a>
-  <a href="https://github.com/harvard-edge/cs249r_book/discussions" class="btn-outline">Share Feedback</a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions" class="btn-outline">Share Feedback</a>
 </div>
 
 </div>

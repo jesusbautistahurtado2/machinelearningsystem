@@ -8,7 +8,7 @@ backwards-incompatible changes that are noted explicitly under "Breaking".
 
 Releases are tagged in git as `tinytorch-vX.Y.Z` (the package-prefixed tag
 distinguishes TinyTorch releases from book volume releases that share this
-monorepo). See [GitHub Releases](https://github.com/harvard-edge/cs249r_book/releases?q=tinytorch)
+monorepo). See [GitHub Releases](https://github.com/jesusbautistahurtado2/machinelearningsystem/releases?q=tinytorch)
 for the canonical list.
 
 ## [Unreleased]
@@ -222,6 +222,6 @@ modules.
 
 ## [0.1.9] and earlier
 
-See [GitHub Releases](https://github.com/harvard-edge/cs249r_book/releases?q=tinytorch)
+See [GitHub Releases](https://github.com/jesusbautistahurtado2/machinelearningsystem/releases?q=tinytorch)
 for pre-0.10 history. The 0.1.x line tracked early-access content
 iteration during the Volume II writing process.

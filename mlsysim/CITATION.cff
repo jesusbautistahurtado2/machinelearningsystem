@@ -11,7 +11,7 @@ version: "0.3.0"
 date-released: "2026-10-25"
 license: "Apache-2.0"
 url: "https://mlsysbook.ai/mlsysim"
-repository-code: "https://github.com/harvard-edge/cs249r_book"
+repository-code: "https://github.com/jesusbautistahurtado2/machinelearningsystem"
 keywords:
   - machine learning systems
   - analytical modeling

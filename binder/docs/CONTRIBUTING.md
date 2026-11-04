@@ -14,7 +14,7 @@ Your contributions are welcome and can encompass a variety of tasks, such as:
 
 Please read our [Code of Conduct](../../CODE_OF_CONDUCT.md) before contributing.
 
-If you are unsure about whether a contribution is appropriate, feel free to open an [issue](https://github.com/harvard-edge/cs249r_book/issues) or start a [discussion](https://github.com/harvard-edge/cs249r_book/discussions).
+If you are unsure about whether a contribution is appropriate, feel free to open an [issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or start a [discussion](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions).
 
 ## Repository Structure
 
@@ -51,9 +51,9 @@ If there is an open issue for the contribution you would like to make, please co
 Fork the repository on GitHub and clone your fork:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cs249r_book.git
-cd cs249r_book
-git remote add upstream https://github.com/harvard-edge/cs249r_book.git
+git clone https://github.com/YOUR_USERNAME/machinelearningsystem.git
+cd machinelearningsystem
+git remote add upstream https://github.com/jesusbautistahurtado2/machinelearningsystem.git
 ```
 
 The upstream remote is read-only. You will push to your fork and open a Pull Request to merge upstream.

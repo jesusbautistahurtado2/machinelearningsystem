@@ -145,7 +145,7 @@ Every chapter is free to read, but access means more than a URL. It means hardwa
     <a href="mailto:edu@tinyML.org" class="cta-btn-primary">
       <i class="fas fa-envelope"></i> Become a Member
     </a>
-    <a href="https://github.com/harvard-edge/cs249r_book/discussions" target="_blank" rel="noopener" class="cta-btn-secondary">
+    <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions" target="_blank" rel="noopener" class="cta-btn-secondary">
       <i class="fab fa-github"></i> Discussions
     </a>
     <a href="https://discuss.tinymlx.org" target="_blank" rel="noopener" class="cta-btn-secondary">

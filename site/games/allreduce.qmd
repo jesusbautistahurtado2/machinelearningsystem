@@ -71,4 +71,4 @@ Ring all-reduce passes gradient chunks between GPUs in ordered steps. A delayed 
 
 ---
 
-*Part of [MLSysBook Playground](/games/). Found a bug? [Report an issue](https://github.com/harvard-edge/cs249r_book/issues/new?labels=bug&title=Bug+in+Game).*
+*Part of [MLSysBook Playground](/games/). Found a bug? [Report an issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new?labels=bug&title=Bug+in+Game).*

@@ -2,7 +2,7 @@
 
 *Hands-on Embedded ML Labs for Real Devices*
 
-[![Build](https://img.shields.io/github/actions/workflow/status/harvard-edge/cs249r_book/kits-validate-dev.yml?branch=dev&label=Build&logo=githubactions)](https://github.com/harvard-edge/cs249r_book/actions/workflows/kits-validate-dev.yml)
+[![Build](https://img.shields.io/github/actions/workflow/status/jesusbautistahurtado2/machinelearningsystem/kits-validate-dev.yml?branch=dev&label=Build&logo=githubactions)](https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/kits-validate-dev.yml)
 [![Website](https://img.shields.io/badge/Read-mlsysbook.ai/kits-blue)](https://mlsysbook.ai/kits)
 [![PDF](https://img.shields.io/badge/Download-PDF-red)](https://mlsysbook.ai/kits/assets/downloads/Hardware-Kits.pdf)
 
@@ -16,7 +16,7 @@
 >
 > Hardware Kits shipped with the **2026** MLSysBook refresh. Labs, build recipes, board notes, and PDF exports are **actively iterated** as hardware and SDKs evolve.
 >
-> **Feedback:** [GitHub issues](https://github.com/harvard-edge/cs249r_book/issues) or pull requests.
+> **Feedback:** [GitHub issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or pull requests.
 <!-- EARLY-RELEASE-CALLOUT:END -->
 
 ## What This Is

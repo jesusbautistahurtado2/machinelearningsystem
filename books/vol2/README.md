@@ -174,7 +174,7 @@ Volume II is a standalone book. It assumes an introductory ML systems course or 
 
 I develop this volume in the open because I believe it produces a better textbook. Every commit is visible, every editorial decision is traceable. If something looks rough, that is because you are watching the book being written.
 
-If you notice an error, have a suggestion, or want to propose a topic, please [open an issue](https://github.com/harvard-edge/cs249r_book/issues) or [start a discussion](https://github.com/harvard-edge/cs249r_book/discussions). Feedback on structure, missing topics, examples, and clarity is especially valuable at this stage. The book is better for every reader who engages with it.
+If you notice an error, have a suggestion, or want to propose a topic, please [open an issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or [start a discussion](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions). Feedback on structure, missing topics, examples, and clarity is especially valuable at this stage. The book is better for every reader who engages with it.
 
 ## Links
 
@@ -204,7 +204,7 @@ If you notice an error, have a suggestion, or want to propose a topic, please [o
     </tr>
     <tr>
       <td><b>Discussions</b></td>
-      <td><a href="https://github.com/harvard-edge/cs249r_book/discussions">GitHub Discussions</a></td>
+      <td><a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions">GitHub Discussions</a></td>
     </tr>
   </tbody>
 </table>

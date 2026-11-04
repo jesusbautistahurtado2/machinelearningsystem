@@ -67,7 +67,7 @@ Each week connects a chapter reading to a seminar discussion and a supervised ex
 
 ## 5. Schedule
 
-Students complete each week's reading before the seminar. Readings follow the book in order, so some chapters prepare students for labs scheduled a week or two later. The [lab template](https://github.com/harvard-edge/cs249r_book/blob/dev/labs/vol4/LAB_TEMPLATE.md) defines the structure of each lab.
+Students complete each week's reading before the seminar. Readings follow the book in order, so some chapters prepare students for labs scheduled a week or two later. The [lab template](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/labs/vol4/LAB_TEMPLATE.md) defines the structure of each lab.
 
 | Week | Reading | Lab part | Due |
 |:---:|:---|:---|:---|

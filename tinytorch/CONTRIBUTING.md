@@ -16,8 +16,8 @@ TinyTorch is an **educational framework** where every contribution should:
 
 1. **Clone and setup environment**:
    ```bash
-   git clone https://github.com/harvard-edge/cs249r_book.git
-   cd cs249r_book/tinytorch
+   git clone https://github.com/jesusbautistahurtado2/machinelearningsystem.git
+   cd machinelearningsystem/tinytorch
    python3 -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    pip install -r requirements.txt

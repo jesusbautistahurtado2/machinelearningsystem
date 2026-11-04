@@ -42,7 +42,7 @@ book:
   abstract: |
     Agentic machine learning systems turn model inference into a stateful control loop that observes, decides, acts, verifies, and adapts over time. This volume develops the systems foundations for managed trajectories across context, memory, tools, control, runtime, evaluation, and operations.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

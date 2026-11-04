@@ -5,7 +5,7 @@ Covers the WASM background-save failure path fixed in #1985: previously
 `save()` used `asyncio.create_task(...)` fire-and-forget, so IndexedDB
 failures inside `save_async()` were silently swallowed and never surfaced
 to the caller. See:
-https://github.com/harvard-edge/cs249r_book/issues/1985
+https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1985
 """
 
 import asyncio

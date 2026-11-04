@@ -549,8 +549,8 @@ If you're still having issues:
    - [BINDER.md](BINDER.md) - Binder CLI guide
    - [DEVELOPMENT.md](DEVELOPMENT.md) - Development setup
 4. **Ask for help**:
-   - GitHub Discussions: https://github.com/harvard-edge/cs249r_book/discussions
-   - GitHub Issues: https://github.com/harvard-edge/cs249r_book/issues
+   - GitHub Discussions: https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions
+   - GitHub Issues: https://github.com/jesusbautistahurtado2/machinelearningsystem/issues
 
 ---
 
@@ -637,7 +637,7 @@ Once everything is set up, you'll be able to:
 1. Read [BINDER.md](BINDER.md) for complete CLI reference
 2. Check [DEVELOPMENT.md](DEVELOPMENT.md) for development workflow
 3. Review [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
-4. Join discussions at [GitHub Discussions](https://github.com/harvard-edge/cs249r_book/discussions)
+4. Join discussions at [GitHub Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)
 
 ---
 
@@ -650,8 +650,8 @@ Once everything is set up, you'll be able to:
 - **[`book-publish-live.yml`](../../.github/workflows/book-publish-live.yml)** - Publishing workflow definition
 
 ### Community
-- **[GitHub Discussions](https://github.com/harvard-edge/cs249r_book/discussions)** - Ask questions and share knowledge
-- **[GitHub Issues](https://github.com/harvard-edge/cs249r_book/issues)** - Report bugs and request features
+- **[GitHub Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)** - Ask questions and share knowledge
+- **[GitHub Issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)** - Report bugs and request features
 - **[MLSysBook.ai](https://mlsysbook.ai)** - Main website and learning platform
 
 ### Tools and Scripts

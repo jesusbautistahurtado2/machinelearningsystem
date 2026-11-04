@@ -132,4 +132,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.tiny:run_visual_wake_words_min` |
 | max | `mlperf.runners.tiny:run_visual_wake_words_max` |
 
-Registry source: [`registry/suites/tiny/visual-wake-words.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/tiny/visual-wake-words.yaml)
+Registry source: [`registry/suites/tiny/visual-wake-words.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/tiny/visual-wake-words.yaml)

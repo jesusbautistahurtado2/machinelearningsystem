@@ -84,7 +84,7 @@ def companion_resources(root: Path, chapter: dict, name: str) -> list[dict]:
             raise ConceptGraphError(f"{chapter['id']}: unknown companion kind")
         if record["status"] not in ("early-release", "ready", "skeleton"):
             raise ConceptGraphError(f"{chapter['id']}: unknown companion status")
-        result.append({**record, "url": "https://github.com/harvard-edge/cs249r_book/blob/dev/" + urlquote(path.as_posix(), safe="/")})
+        result.append({**record, "url": "https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/" + urlquote(path.as_posix(), safe="/")})
     return result
 
 

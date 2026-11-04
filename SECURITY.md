@@ -15,7 +15,7 @@ vulnerability privately, and what response you can expect.
 Use one of these private channels:
 
 1. **Preferred — GitHub Private Vulnerability Report:**
-   <https://github.com/harvard-edge/cs249r_book/security/advisories/new>
+   <https://github.com/jesusbautistahurtado2/machinelearningsystem/security/advisories/new>
    (requires a free GitHub account; gives us a structured triage thread)
 2. **Email:** `vj@eecs.harvard.edu` and `nkhoshnevis@g.harvard.edu`.
    Please include "MLSysBook security" in the subject line.

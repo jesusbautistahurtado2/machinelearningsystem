@@ -119,7 +119,7 @@ class MaintenanceCommand:
             "[white]covering principles and practices for building AI solutions in real-world environments.[/white]\n\n"
             "[green]🎯 Author:[/green] Prof. Vijay Janapa Reddi (Harvard University)\n"
             "[green]🌐 Website:[/green] https://mlsysbook.ai\n"
-            "[green]📖 Repository:[/green] https://github.com/harvard-edge/cs249r_book\n"
+            "[green]📖 Repository:[/green] https://github.com/jesusbautistahurtado2/machinelearningsystem\n"
             "[green]⚡ CLI Version:[/green] v2.0 (Modular Architecture)",
             title="ℹ️ About MLSysBook",
             border_style="blue",

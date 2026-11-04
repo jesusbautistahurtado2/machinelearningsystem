@@ -120,6 +120,6 @@ of all 22 constraints.
 
 ## Getting Help
 
-- **Issues:** [github.com/harvard-edge/cs249r_book/issues](https://github.com/harvard-edge/cs249r_book/issues) (use the mlsysim template)
+- **Issues:** [github.com/jesusbautistahurtado2/machinelearningsystem/issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) (use the mlsysim template)
 - **Documentation:** [mlsysbook.ai/mlsysim](https://mlsysbook.ai/mlsysim)
 - **Citation:** See CITATION.cff in the package root

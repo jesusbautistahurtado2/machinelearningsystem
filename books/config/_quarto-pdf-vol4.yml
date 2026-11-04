@@ -33,7 +33,7 @@ book:
   abstract: |
     Physical AI systems engineering is governed by Newtonian mechanics, physical irreversibility, and bounded response time. Advisory computation can be corrected before it commands an actuator, but software rollback cannot undo motion or heat already produced by an autonomous machine. Computational delay consumes stopping clearance as the machine moves.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

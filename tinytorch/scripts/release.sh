@@ -210,7 +210,7 @@ if [ "$DRY_RUN" = false ]; then
     print_success "Release v${VERSION} complete!"
     echo ""
     echo "Next steps:"
-    echo "  1. Create GitHub release: https://github.com/harvard-edge/cs249r_book/releases/new?tag=${TAG_NAME}"
+    echo "  1. Create GitHub release: https://github.com/jesusbautistahurtado2/machinelearningsystem/releases/new?tag=${TAG_NAME}"
     echo "  2. Students can update: tito system update"
 else
     print_warning "Dry run complete - no changes made"

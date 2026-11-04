@@ -18,7 +18,7 @@ The full rationale is at the bottom of the [CLA file](CLA.md).
 
 ## What we need
 
-- **Bug reports** — open a [GitHub issue](https://github.com/harvard-edge/cs249r_book/issues)
+- **Bug reports** — open a [GitHub issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)
   describing what you expected, what happened, and how to reproduce.
 - **Feature requests** — open a discussion first so we can talk through fit
   before you spend time on implementation.
@@ -78,7 +78,7 @@ jobs:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.CLA_SIGNATURE_PAT }}
         with:
           path-to-signatures: 'staffml/app/.cla-signatures.json'
-          path-to-document: 'https://github.com/harvard-edge/cs249r_book/blob/dev/staffml/app/CLA.md'
+          path-to-document: 'https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/staffml/app/CLA.md'
           branch: 'main'
           allowlist: 'dependabot[bot],github-actions[bot]'
 ```

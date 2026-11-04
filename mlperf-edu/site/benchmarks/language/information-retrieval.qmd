@@ -140,4 +140,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.retrieval:run_information_retrieval_min` |
 | max | `mlperf.runners.retrieval:run_information_retrieval_max` |
 
-Registry source: [`registry/suites/language/information-retrieval.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/language/information-retrieval.yaml)
+Registry source: [`registry/suites/language/information-retrieval.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/language/information-retrieval.yaml)

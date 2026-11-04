@@ -17,7 +17,7 @@ from pathlib import Path
 from typing import Dict, Type, Optional, List
 
 # Fix encoding issues on Windows (emoji/unicode output).
-# See: https://github.com/harvard-edge/cs249r_book/discussions/1145
+# See: https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions/1145
 #
 # Setting PYTHONIOENCODING here has no effect: sys.stdout/sys.stderr are
 # already constructed by the time this module executes, using whatever
@@ -230,7 +230,7 @@ The learning cycle for each module:
   [{Theme.SUCCESS}]3.[/{Theme.SUCCESS}] Test, export, and record progress: [{Theme.INFO}]tito module complete 01[/{Theme.INFO}]
 
 [{Theme.WARNING}]🐛 FEEDBACK:[/{Theme.WARNING}] Found an issue or have a suggestion?
-   Discussions → [{Theme.INFO}]github.com/harvard-edge/cs249r_book/discussions[/{Theme.INFO}]"""
+   Discussions → [{Theme.INFO}]github.com/jesusbautistahurtado2/machinelearningsystem/discussions[/{Theme.INFO}]"""
 
         self.console.print()
         self.console.print(Panel(

@@ -3,7 +3,7 @@
 *Machine learning systems that sense and act in the physical world.*
 
 > [!NOTE]
-> **In development.** This volume is being written now and changes quickly as I iterate. Chapters are added, reorganized, and rewritten often, so please do not cite or teach from it yet. Feedback is welcome through the [book feedback issue forms](https://github.com/harvard-edge/cs249r_book/issues/new/choose).
+> **In development.** This volume is being written now and changes quickly as I iterate. Chapters are added, reorganized, and rewritten often, so please do not cite or teach from it yet. Feedback is welcome through the [book feedback issue forms](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new/choose).
 
 ---
 

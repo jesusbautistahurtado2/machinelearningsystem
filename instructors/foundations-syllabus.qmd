@@ -8,7 +8,7 @@ subtitle: "Syllabus · Semester plan"
 | **Textbook** | [Volume I: Introduction to Machine Learning Systems](https://mlsysbook.ai/vol1/) |
 | **Prerequisites** | Python, linear algebra, basic calculus, and introductory probability |
 | **Format** | A 16-week semester or a 10-week quarter, with two 75-minute lectures per week |
-| **Materials** | [Slides](https://mlsysbook.ai/slides/vol1.html) · [Labs](https://mlsysbook.ai/labs/) · [TinyTorch](https://mlsysbook.ai/tinytorch/) ([instructor guide](https://github.com/harvard-edge/cs249r_book/blob/dev/tinytorch/INSTRUCTOR.md) for autograding) · no GPUs needed |
+| **Materials** | [Slides](https://mlsysbook.ai/slides/vol1.html) · [Labs](https://mlsysbook.ai/labs/) · [TinyTorch](https://mlsysbook.ai/tinytorch/) ([instructor guide](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/tinytorch/INSTRUCTOR.md) for autograding) · no GPUs needed |
 
 ## Description {#description}
 

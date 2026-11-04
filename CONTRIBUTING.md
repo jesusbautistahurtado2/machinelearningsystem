@@ -27,7 +27,7 @@ right place.
 | Change the unified landing site, newsletter wiring, or games | **Site** | [`site/README.md`](site/README.md) |
 
 Not sure which one applies? Open a
-[Discussion](https://github.com/harvard-edge/cs249r_book/discussions) and we'll
+[Discussion](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) and we'll
 help route it.
 
 ## Common gotchas first-time contributors hit
@@ -54,8 +54,8 @@ README. Each links to the canonical doc rather than restating it.
   [`labs/PROTOCOL.md`](labs/PROTOCOL.md). The lab test suite enforces both.
 * **Don't commit large binaries.** Distribution PDFs, EPUBs, podcast MP3s,
   and JS bundles balloon `.git` (see issues
-  [#1393](https://github.com/harvard-edge/cs249r_book/issues/1393) and
-  [#1175](https://github.com/harvard-edge/cs249r_book/issues/1175)). The
+  [#1393](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1393) and
+  [#1175](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1175)). The
   root `.gitattributes` is set up so future EPUB / PDF / MP3 / MP4 / WAV /
   WASM additions land in Git LFS automatically. Generated artefacts
   (`bundle.js`, `corpus.json`, search indexes) are gitignored — regenerate
@@ -153,11 +153,11 @@ project-local terms (see each sub-project's `LICENSE` for specifics).
 ## Reporting bugs and asking questions
 
 * **Found a real bug or specific issue?** Open an
-  [issue](https://github.com/harvard-edge/cs249r_book/issues) using the
+  [issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) using the
   template that fits (we have eight: book, TinyTorch bug, MLSys·im bug, new
   challenge, interview question, StaffML report/contribute, and more).
 * **General question or design discussion?**
-  [Discussions](https://github.com/harvard-edge/cs249r_book/discussions) is the
+  [Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) is the
   better fit.
 * **Security issue?** See [SECURITY.md](SECURITY.md) — please do **not** open a
   public issue.

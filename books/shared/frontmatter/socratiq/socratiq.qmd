@@ -321,7 +321,7 @@ For persistent issues, please contact us at vj[@]eecs.harvard.edu.
 
 Your feedback helps us improve SocratiQ.
 
-You can report technical issues, suggest improvements to quiz questions, or share thoughts about AI responses using the feedback buttons located throughout the interface. You can submit a [GitHub issue](https://github.com/harvard-edge/cs249r_book/issues).
+You can report technical issues, suggest improvements to quiz questions, or share thoughts about AI responses using the feedback buttons located throughout the interface. You can submit a [GitHub issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues).
 
 :::
 

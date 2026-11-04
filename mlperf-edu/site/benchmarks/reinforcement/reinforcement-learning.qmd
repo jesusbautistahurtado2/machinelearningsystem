@@ -141,4 +141,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.functional_setup:run_reinforcement_learning_min` |
 | max | `mlperf.runners.minigo:run_reinforcement_learning_max` |
 
-Registry source: [`registry/suites/reinforcement/reinforcement-learning.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/reinforcement/reinforcement-learning.yaml)
+Registry source: [`registry/suites/reinforcement/reinforcement-learning.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/reinforcement/reinforcement-learning.yaml)

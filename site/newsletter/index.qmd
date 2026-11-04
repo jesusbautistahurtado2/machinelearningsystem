@@ -213,7 +213,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <strong>Teach with us</strong>
       <span>Get hardware kits and open curriculum for your course.</span>
     </a>
-    <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener" class="newsletter-involve-card">
+    <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem" target="_blank" rel="noopener" class="newsletter-involve-card">
       <i class="fab fa-github newsletter-involve-icon" style="color: #3d9e5a;"></i>
       <strong>Contribute</strong>
       <span>The textbook and TinyTorch are open source and accept pull requests.</span>

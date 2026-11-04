@@ -147,4 +147,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.functional_setup:run_recommendation_min` |
 | max | `mlperf.runners.ncf:run_recommendation_max` |
 
-Registry source: [`registry/suites/recommendation/recommendation.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/recommendation/recommendation.yaml)
+Registry source: [`registry/suites/recommendation/recommendation.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/recommendation/recommendation.yaml)

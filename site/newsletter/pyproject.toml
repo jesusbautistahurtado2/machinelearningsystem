@@ -46,8 +46,8 @@ dev = [
 
 [project.urls]
 Homepage = "https://mlsysbook.ai/newsletter/"
-Repository = "https://github.com/harvard-edge/cs249r_book"
-Issues = "https://github.com/harvard-edge/cs249r_book/issues"
+Repository = "https://github.com/jesusbautistahurtado2/machinelearningsystem"
+Issues = "https://github.com/jesusbautistahurtado2/machinelearningsystem/issues"
 
 [tool.setuptools]
 packages = ["cli", "cli.core", "cli.commands"]

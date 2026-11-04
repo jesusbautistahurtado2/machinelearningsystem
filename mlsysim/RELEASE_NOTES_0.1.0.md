@@ -89,12 +89,12 @@ mlsysim schema      Export the JSON Schema for the mlsys.yaml configuration file
 ## Known limitations & gotchas
 
 - **First-order analytical model.** Predictions are typically within 15–30% of measured throughput on well-optimized workloads. Use MLSys·im to *compare* options and identify *bottlenecks*; validate with empirical benchmarks before committing to a production SLA. See `accuracy.qmd` for full validation against MLPerf v4.0.
-- **Slide PDFs.** Many tutorials cross-link to lecture slides at `github.com/harvard-edge/cs249r_book/releases/download/slides-latest/*.pdf`. The `slides-latest` release tag is not yet published; these links will resolve once the slides ship.
+- **Slide PDFs.** Many tutorials cross-link to lecture slides at `github.com/jesusbautistahurtado2/machinelearningsystem/releases/download/slides-latest/*.pdf`. The `slides-latest` release tag is not yet published; these links will resolve once the slides ship.
 - **Hosted notebook launchers.** Google Colab and Binder buttons are planned but not wired up for 0.1.0. Tutorials run locally on any Python 3.10+ environment.
 
 ## Project links
 
-- Source: [github.com/harvard-edge/cs249r_book/tree/dev/mlsysim](https://github.com/harvard-edge/cs249r_book/tree/dev/mlsysim)
-- Issues: [github.com/harvard-edge/cs249r_book/issues](https://github.com/harvard-edge/cs249r_book/issues)
+- Source: [github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev/mlsysim](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev/mlsysim)
+- Issues: [github.com/jesusbautistahurtado2/machinelearningsystem/issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)
 - License: Apache-2.0 (code) · CC-BY-NC-SA-4.0 (documentation)
 - Citation: see [`CITATION.cff`](CITATION.cff)

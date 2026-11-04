@@ -187,7 +187,7 @@ var e=Object.create,t=Object.defineProperty,n=Object.getOwnPropertyDescriptor,r=
                 class="inline-block bg-blue-100 text-zinc-900 px-4 py-0.5 rounded-md" target="_blank"
                 rel="noopener noreferrer" title="TinyML Textbook">1</a>
               <!-- Omitted buttons as they are not links -->
-              <a href="https://github.com/harvard-edge/cs249r_book"
+              <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem"
                 class="inline-block bg-blue-100 text-zinc-900 px-4 py-0.5 rounded-md" target="_blank"
                 rel="noopener noreferrer" title="TinyML GitHub Repo">2</a>
               <a href="https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning"

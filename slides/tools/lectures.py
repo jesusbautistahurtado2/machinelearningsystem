@@ -48,8 +48,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 BOOKS = ROOT.parent / "books"
-RELEASE = "https://github.com/harvard-edge/cs249r_book/releases/download/slides-latest"
-SOURCE = "https://github.com/harvard-edge/cs249r_book/tree/dev/slides"
+RELEASE = "https://github.com/jesusbautistahurtado2/machinelearningsystem/releases/download/slides-latest"
+SOURCE = "https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev/slides"
 
 def read_yaml(path: Path) -> dict:
     return yaml.safe_load(path.read_text()) or {}

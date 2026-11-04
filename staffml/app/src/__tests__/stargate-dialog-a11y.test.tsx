@@ -19,7 +19,7 @@ vi.mock('@/lib/star-gate', () => ({
   // Never resolves — keeps the live star count in its loading state so the
   // test doesn't depend on network or timing.
   fetchStarCount: () => new Promise(() => {}),
-  getStarUrl: () => 'https://github.com/harvard-edge/cs249r_book',
+  getStarUrl: () => 'https://github.com/jesusbautistahurtado2/machinelearningsystem',
   markVerified: (...args: unknown[]) => markVerified(...args),
 }));
 

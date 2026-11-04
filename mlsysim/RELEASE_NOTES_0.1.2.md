@@ -89,5 +89,5 @@ python3 -m build --sdist --wheel
 ## Project links
 
 - Docs: [mlsysbook.ai/mlsysim/](https://mlsysbook.ai/mlsysim/)
-- Source: [github.com/harvard-edge/cs249r_book/tree/mlsysim-v0.1.2/mlsysim](https://github.com/harvard-edge/cs249r_book/tree/mlsysim-v0.1.2/mlsysim)
-- Issues: [github.com/harvard-edge/cs249r_book/issues](https://github.com/harvard-edge/cs249r_book/issues)
+- Source: [github.com/jesusbautistahurtado2/machinelearningsystem/tree/mlsysim-v0.1.2/mlsysim](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/mlsysim-v0.1.2/mlsysim)
+- Issues: [github.com/jesusbautistahurtado2/machinelearningsystem/issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)

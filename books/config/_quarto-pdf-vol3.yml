@@ -34,7 +34,7 @@ book:
 
     This volume develops the systems engineering of agentic AI around the H·S·A exposures (Horizon, State, Authority) that an agent adds beyond a single model call, and the Invariant Closure Principle that separates runtime-enforced bounds from evidence of task completion. Across seven parts, it develops the foundation-model call, context and persistent memory, typed tool interfaces and sandboxed execution, runtime supervision with checkpoints and failure recovery, evaluation and learning from verified trajectories, and multi-agent coordination and cost per accepted task.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

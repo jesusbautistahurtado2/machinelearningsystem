@@ -203,7 +203,7 @@ The GitHub Actions workflow will:
 - 🚀 Deploy to GitHub Pages
 - 📦 Create release assets
 
-**Monitor progress**: https://github.com/harvard-edge/cs249r_book/actions
+**Monitor progress**: https://github.com/jesusbautistahurtado2/machinelearningsystem/actions
 
 ## 🔍 Project Health Checks
 

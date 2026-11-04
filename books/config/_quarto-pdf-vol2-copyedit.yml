@@ -43,7 +43,7 @@ book:
 
     Throughout, physical constraints drive architecture. Bisection bandwidth, MTBF analysis, queuing theory, and scaling efficiency metrics are the analytical instruments. Readers develop the capacity to design distributed training pipelines, reason quantitatively about fault tolerance and scaling efficiency, and govern production ML infrastructure with accountability and environmental awareness. Suitable for graduate students in distributed systems and machine learning systems, and for practitioners designing and operating ML infrastructure at production scale.
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     left: |

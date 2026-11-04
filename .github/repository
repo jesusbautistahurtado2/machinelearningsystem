@@ -4,4 +4,4 @@
 # truth. When it differs from the line below, the infra-repository-name-sync
 # workflow runs .github/scripts/sync-repository-name.py, which rewrites every
 # reference and this line, then commits the result to dev. Do not edit by hand.
-harvard-edge/cs249r_book
+jesusbautistahurtado2/machinelearningsystem

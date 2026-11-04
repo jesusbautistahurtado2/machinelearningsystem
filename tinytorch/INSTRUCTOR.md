@@ -11,8 +11,8 @@ TinyTorch teaches ML systems engineering through building, not just using. Stude
 ### **1. Initial Setup**
 ```bash
 # Clone and setup
-git clone https://github.com/harvard-edge/cs249r_book.git
-cd cs249r_book/tinytorch
+git clone https://github.com/jesusbautistahurtado2/machinelearningsystem.git
+cd machinelearningsystem/tinytorch
 
 # Virtual environment (MANDATORY)
 python -m venv .venv
@@ -635,8 +635,8 @@ ls submitted/*/MODULE/
 ## 📚 Additional Resources
 
 - [MLSys Book](https://mlsysbook.ai) - Companion textbook
-- [Course Discussions](https://github.com/harvard-edge/cs249r_book/discussions)
-- [Issue Tracker](https://github.com/harvard-edge/cs249r_book/issues)
+- [Course Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)
+- [Issue Tracker](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)
 
 ---
 

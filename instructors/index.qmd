@@ -167,5 +167,5 @@ from earlier Harvard offerings, with their assignments and example projects.
 The introductory and scaling courses can run back to back as a two-semester
 sequence. The [course catalog](https://mlsysbook.ai/courses/) lists courses at
 other schools, and the
-[community forum](https://github.com/harvard-edge/cs249r_book/discussions)
+[community forum](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)
 answers questions about teaching with the book.

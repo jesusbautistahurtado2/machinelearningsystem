@@ -100,8 +100,8 @@ the `mlsysbook.ai` overview page in the Cloudflare dashboard.
 ## Secrets the workflows expect
 
 Secrets hold credentials, so this list names them without values. Set one with
-`gh secret set NAME -R harvard-edge/cs249r_book`, and list what is set with
-`gh secret list -R harvard-edge/cs249r_book`.
+`gh secret set NAME -R jesusbautistahurtado2/machinelearningsystem`, and list what is set with
+`gh secret list -R jesusbautistahurtado2/machinelearningsystem`.
 
 | Secret | Used by |
 |---|---|
@@ -135,7 +135,7 @@ Secrets hold credentials, so this list names them without values. Set one with
 3. Set it:
 
    ```bash
-   gh variable set MY_NEW_VAR -R harvard-edge/cs249r_book --body "the value"
+   gh variable set MY_NEW_VAR -R jesusbautistahurtado2/machinelearningsystem --body "the value"
    ```
 
 4. Read it in workflows as `${{ vars.MY_NEW_VAR || 'the value' }}`. Workflows that
@@ -148,7 +148,7 @@ Secrets hold credentials, so this list names them without values. Set one with
 To see all variables currently set:
 
 ```bash
-gh variable list -R harvard-edge/cs249r_book
+gh variable list -R jesusbautistahurtado2/machinelearningsystem
 ```
 
 To see where a variable is referenced:

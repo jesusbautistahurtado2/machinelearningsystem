@@ -4,8 +4,8 @@
 
 ### Build Your Own ML Framework From Scratch
 
-[![Version](https://img.shields.io/github/v/tag/harvard-edge/cs249r_book?filter=tinytorch-v*&label=version&color=D4740C&logo=fireship&logoColor=white)](https://github.com/harvard-edge/cs249r_book/releases?q=tinytorch)
-[![Status](https://img.shields.io/badge/status-preview-orange?logo=github)](https://github.com/harvard-edge/cs249r_book/discussions/1076)
+[![Version](https://img.shields.io/github/v/tag/jesusbautistahurtado2/machinelearningsystem?filter=tinytorch-v*&label=version&color=D4740C&logo=fireship&logoColor=white)](https://github.com/jesusbautistahurtado2/machinelearningsystem/releases?q=tinytorch)
+[![Status](https://img.shields.io/badge/status-preview-orange?logo=github)](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions/1076)
 [![Docs](https://img.shields.io/badge/docs-mlsysbook.ai-blue?logo=readthedocs)](https://mlsysbook.ai/tinytorch)
 [![Python](https://img.shields.io/badge/python-3.10+-3776ab?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -13,7 +13,7 @@
 
 **Most ML courses teach you to *use* frameworks. TinyTorch teaches you to *build* them.**
 
-[The Vision](#why-tinytorch) · [20 Modules](#-20-progressive-modules) · [Share Feedback](https://github.com/harvard-edge/cs249r_book/discussions/1076)
+[The Vision](#why-tinytorch) · [20 Modules](#-20-progressive-modules) · [Share Feedback](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions/1076)
 
 </div>
 
@@ -84,7 +84,7 @@ We're sharing TinyTorch early because we'd rather shape the direction with commu
 **For everyone:**
 → What natural extensions belong in this "AI bricks" model?
 
-📣 **[Share your thoughts in the discussion →](https://github.com/harvard-edge/cs249r_book/discussions/1076)**
+📣 **[Share your thoughts in the discussion →](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions/1076)**
 
 ---
 
@@ -387,7 +387,7 @@ TinyTorch is part of the [ML Systems Book](https://mlsysbook.ai) ecosystem. We'r
 
 **Ways to get involved:**
 - ⭐ Star this repo to show support
-- 💬 Join [Discussions](https://github.com/harvard-edge/cs249r_book/discussions) to ask questions
+- 💬 Join [Discussions](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions) to ask questions
 - 🐛 Report issues or suggest improvements
 - 🤝 Contribute modules, fixes, or documentation
 
@@ -501,7 +501,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<b><a href="https://mlsysbook.ai/tinytorch">Full Documentation</a></b> ・ <b><a href="https://github.com/harvard-edge/cs249r_book/discussions">Discussions</a></b> ・ <b><a href="https://mlsysbook.ai">ML Systems Book</a></b>
+<b><a href="https://mlsysbook.ai/tinytorch">Full Documentation</a></b> ・ <b><a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions">Discussions</a></b> ・ <b><a href="https://mlsysbook.ai">ML Systems Book</a></b>
 
 <b>Start Small. Go Deep. Build ML Systems.</b>
 

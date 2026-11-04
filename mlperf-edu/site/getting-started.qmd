@@ -29,8 +29,8 @@ project environment, so a separate virtual-environment command is not needed.
 ## Run the Guided Setup
 
 ```bash
-git clone https://github.com/harvard-edge/cs249r_book
-cd cs249r_book/mlperf-edu
+git clone https://github.com/jesusbautistahurtado2/machinelearningsystem
+cd machinelearningsystem/mlperf-edu
 uv sync --locked
 uv run mlperf init --profile min --output-dir submissions/first-run
 ```

@@ -140,4 +140,4 @@ A "soft landing" on the global minimum is the only outcome where every constrain
 
 ---
 
-*Part of the [MLSysBook Playground](/games/). Try another game.* Found a bug? [Report an issue](https://github.com/harvard-edge/cs249r_book/issues/new?labels=bug&title=Bug+in+Game).
+*Part of the [MLSysBook Playground](/games/). Try another game.* Found a bug? [Report an issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new?labels=bug&title=Bug+in+Game).

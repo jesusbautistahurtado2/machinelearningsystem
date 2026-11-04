@@ -16,7 +16,7 @@ All contributions go through GitHub. For contributors new to Git and pull reques
 [GitHub's guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 is a good starting point.
 
-**Repository:** [harvard-edge/cs249r_book]({{< var github_repo >}})
+**Repository:** [jesusbautistahurtado2/machinelearningsystem]({{< var github_repo >}})
 :::
 
 ---

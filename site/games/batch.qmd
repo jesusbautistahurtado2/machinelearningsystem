@@ -65,4 +65,4 @@ Spikes in activation memory are the penalty. Larger batches improve hardware uti
 
 ---
 
-*Part of [MLSysBook Playground](/games/). Found a bug? [Report an issue](https://github.com/harvard-edge/cs249r_book/issues/new?labels=bug&title=Bug+in+Game).*
+*Part of [MLSysBook Playground](/games/). Found a bug? [Report an issue](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new?labels=bug&title=Bug+in+Game).*

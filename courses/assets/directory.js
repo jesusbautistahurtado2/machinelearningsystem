@@ -14,7 +14,7 @@
     .filter(w => w && !/^(of|the|and|at|de|da|di|la|e|in|for)$/i.test(w)).map(w => w[0]).join('').toLowerCase();
   const hayOf = (...parts) => { const t = parts.filter(Boolean).join(' '); return (t + ' ' + initials(t)).toLowerCase(); };
   const rBox = document.getElementById('crs-readers');
-  const ADD = 'https://github.com/harvard-edge/cs249r_book/issues/new?template=add_course.yml';
+  const ADD = 'https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new?template=add_course.yml';
 
   const mark = s => `<span class="adp-mark${s.logo ? '' : ' adp-mark--mono'}">${
     s.logo ? `<img src="${esc(s.logo)}" alt="" loading="lazy" width="28" height="28">` : esc(s.mono)}</span>`;

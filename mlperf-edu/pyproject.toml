@@ -53,8 +53,8 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://mlsysbook.ai"
-Repository = "https://github.com/harvard-edge/cs249r_book"
-Issues = "https://github.com/harvard-edge/cs249r_book/issues"
+Repository = "https://github.com/jesusbautistahurtado2/machinelearningsystem"
+Issues = "https://github.com/jesusbautistahurtado2/machinelearningsystem/issues"
 
 [project.scripts]
 mlperf = "mlperf.edu_cli:main"

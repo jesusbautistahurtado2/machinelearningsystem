@@ -137,4 +137,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.timeseries:run_time_series_forecasting_min` |
 | max | `mlperf.runners.timeseries:run_time_series_forecasting_max` |
 
-Registry source: [`registry/suites/timeseries/time-series-forecasting.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/timeseries/time-series-forecasting.yaml)
+Registry source: [`registry/suites/timeseries/time-series-forecasting.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/timeseries/time-series-forecasting.yaml)

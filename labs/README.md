@@ -4,9 +4,9 @@
 >
 > Co-Labs shipped with the **2026** MLSysBook refresh. Lab notebooks, WASM builds, and scoring flows are **actively iterated** as we refine the hands-on curriculum.
 >
-> **Feedback:** [GitHub issues](https://github.com/harvard-edge/cs249r_book/issues) or pull requests.
+> **Feedback:** [GitHub issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or pull requests.
 >
-> [![dev branch](https://img.shields.io/badge/branch-dev-orange?logo=git&logoColor=white)](https://github.com/harvard-edge/cs249r_book/tree/dev) [![live site](https://img.shields.io/badge/live_site-mlsysbook.ai-blue?logo=safari&logoColor=white)](https://mlsysbook.ai)
+> [![dev branch](https://img.shields.io/badge/branch-dev-orange?logo=git&logoColor=white)](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev) [![live site](https://img.shields.io/badge/live_site-mlsysbook.ai-blue?logo=safari&logoColor=white)](https://mlsysbook.ai)
 <!-- EARLY-RELEASE-CALLOUT:END -->
 
 <div align="center">
@@ -250,8 +250,8 @@ Visit the [Co-Labs site](https://mlsysbook.ai/labs/) and click any lab. They run
 ### Locally
 
 ```bash
-git clone https://github.com/harvard-edge/cs249r_book.git
-cd cs249r_book
+git clone https://github.com/jesusbautistahurtado2/machinelearningsystem.git
+cd machinelearningsystem
 python3 -m pip install -r labs/requirements.txt
 python3 -m pip install -e mlsysim
 cd labs
@@ -289,7 +289,7 @@ pytest tests/test_static.py -v
       <td>Build your own ML framework from scratch</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/harvard-edge/cs249r_book/discussions">Discussions</a></b></td>
+      <td><b><a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions">Discussions</a></b></td>
       <td>Ask questions, share feedback</td>
     </tr>
   </tbody>

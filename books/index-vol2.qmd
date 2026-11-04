@@ -61,7 +61,7 @@ format:
 
   <div class="support-actions">
     <span class="star-count" id="star-count">Loading...</span>
-    <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener" class="github-star-btn">Star on GitHub</a>
+    <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem" target="_blank" rel="noopener" class="github-star-btn">Star on GitHub</a>
   </div>
 
   <p class="support-note">
@@ -74,7 +74,7 @@ async function fetchGitHubStars() {
   const starElement = document.getElementById('star-count');
 
   try {
-    const response = await fetch('https://api.github.com/repos/harvard-edge/cs249r_book');
+    const response = await fetch('https://api.github.com/repos/jesusbautistahurtado2/machinelearningsystem');
     const data = await response.json();
     const starCount = data.stargazers_count;
     const formattedCount = starCount.toLocaleString();
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', fetchGitHubStars);
 
 <h2>Contributing</h2>
 
-<p>This is a collaborative project. The project <a href="https://github.com/harvard-edge/cs249r_book/blob/main/CONTRIBUTING.md">contribution guidelines</a> explain how to participate. Feedback, corrections, and new ideas are welcome through GitHub <a href="https://github.com/harvard-edge/cs249r_book/issues">issues</a>.</p>
+<p>This is a collaborative project. The project <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/CONTRIBUTING.md">contribution guidelines</a> explain how to participate. Feedback, corrections, and new ideas are welcome through GitHub <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/issues">issues</a>.</p>
 ```
 
 :::

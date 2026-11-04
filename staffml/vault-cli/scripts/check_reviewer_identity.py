@@ -43,7 +43,7 @@ def _base_ref() -> str:
     where dev is many commits ahead of main, this swept up every YAML
     edit between main and dev on every push to dev, producing 100+
     spurious failures unrelated to the current change. See:
-    https://github.com/harvard-edge/cs249r_book/actions/runs/24937063459
+    https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/runs/24937063459
     """
     base_env = os.environ.get("GITHUB_BASE_REF", "").strip()
     if base_env:

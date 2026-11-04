@@ -153,4 +153,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.functional_setup:run_code_generation_min` |
 | max | `mlperf.runners.code_generation:run_code_generation_max` |
 
-Registry source: [`registry/suites/language/code-generation.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/language/code-generation.yaml)
+Registry source: [`registry/suites/language/code-generation.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/language/code-generation.yaml)

@@ -16,7 +16,7 @@ const markVerified = vi.fn();
 
 vi.mock('@/lib/star-gate', () => ({
   fetchStarCount: () => new Promise(() => {}),    // never resolves
-  getStarUrl: () => 'https://github.com/harvard-edge/cs249r_book',
+  getStarUrl: () => 'https://github.com/jesusbautistahurtado2/machinelearningsystem',
   markVerified: (...args: unknown[]) => markVerified(...args),
 }));
 

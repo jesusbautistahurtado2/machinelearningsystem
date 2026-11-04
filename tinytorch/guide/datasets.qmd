@@ -251,11 +251,11 @@ The TinyVerse suite supplies the input data across every milestone in the curric
 
 Each bundled dataset carries a Datasheet for Datasets following the Gebru et al. template, next to its data in the repository. The datasheets record why the dataset exists, what it contains, how it was collected and preprocessed, and what it should and should not be used for:
 
-- [TinyVerse suite overview](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/datasets/DATASHEET.md)
-- [`tinydigits`](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/datasets/tinydigits/DATASHEET.md)
-- [`tinypy`](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/datasets/tinypy/DATASHEET.md)
-- [`tinytalks`](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/datasets/tinytalks/DATASHEET.md)
-- [`tinyshakespeare`](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/datasets/tinyshakespeare/DATASHEET.md)
+- [TinyVerse suite overview](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/datasets/DATASHEET.md)
+- [`tinydigits`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/datasets/tinydigits/DATASHEET.md)
+- [`tinypy`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/datasets/tinypy/DATASHEET.md)
+- [`tinytalks`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/datasets/tinytalks/DATASHEET.md)
+- [`tinyshakespeare`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/datasets/tinyshakespeare/DATASHEET.md)
 
 The scripts that generated TinyDigits, TinyPy, and TinyTalks sit in the same folders (`create_tinydigits.py`, `create_tinypy.py`, `create_tinytorch_qa.py`), so each dataset can be rebuilt from its source.
 

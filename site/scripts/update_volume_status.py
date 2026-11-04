@@ -191,7 +191,7 @@ def publish_to_gh_pages(repo: str, token: str) -> None:
 
 def main() -> int:
     token = os.environ.get("GITHUB_TOKEN", "")
-    repo = os.environ.get("GITHUB_REPOSITORY", "harvard-edge/cs249r_book")
+    repo = os.environ.get("GITHUB_REPOSITORY", "jesusbautistahurtado2/machinelearningsystem")
     run_id = os.environ.get("GITHUB_RUN_ID", "")
 
     jobs = []

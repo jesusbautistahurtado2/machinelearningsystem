@@ -195,7 +195,7 @@ website:
         - text: "Glossary"
           href: vol3/backmatter/glossary/glossary.qmd
 
-  repo-url: https://github.com/harvard-edge/cs249r_book
+  repo-url: https://github.com/jesusbautistahurtado2/machinelearningsystem
 
   page-footer:
     center: |

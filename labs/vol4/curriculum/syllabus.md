@@ -5,7 +5,7 @@ The course syllabus has moved to the
 It is the canonical source for the schedule, assessment, and course policies.
 
 For the source in this repository, see
-[`courses/physical-ai/eth-spring-2027/syllabus.qmd`](https://github.com/harvard-edge/cs249r_book/blob/dev/courses/physical-ai/eth-spring-2027/syllabus.qmd).
+[`courses/physical-ai/eth-spring-2027/syllabus.qmd`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/courses/physical-ai/eth-spring-2027/syllabus.qmd).
 
 Reusable [lab instructions](../README.md) and the
 [Competency Card](student-competencies.md) remain here.

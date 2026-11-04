@@ -9,7 +9,7 @@ once per topic rather than hand-authored across all ~10.7k questions.
 This is a *go-deeper pointer, not an answer key*: the reference is tied to the
 question's topic, not to where its solution lives. See
 ``staffml/app/docs/proposals/book-refs-analysis.md`` and
-harvard-edge/cs249r_book#1822.
+jesusbautistahurtado2/machinelearningsystem#1822.
 
 URL pattern (verified live, HTTP 200):
 

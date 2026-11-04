@@ -159,7 +159,7 @@ website:
         id: "navbar-subscribe-btn"
       - icon: star
         text: "Star"
-        href: https://github.com/harvard-edge/cs249r_book
+        href: https://github.com/jesusbautistahurtado2/machinelearningsystem
         target: _blank
       - icon: heart
         text: "Support"
@@ -170,17 +170,17 @@ website:
         menu:
           - icon: chat
             text: "Discussions"
-            href: https://github.com/harvard-edge/cs249r_book/discussions
+            href: https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions
             target: _blank
           - icon: pencil
             text: "Edit this page"
-            href: https://github.com/harvard-edge/cs249r_book
+            href: https://github.com/jesusbautistahurtado2/machinelearningsystem
             target: _blank
           - icon: bug
             text: "Report an issue"
-            href: https://github.com/harvard-edge/cs249r_book/issues/new
+            href: https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/new
             target: _blank
           - icon: code
             text: "View source"
-            href: https://github.com/harvard-edge/cs249r_book
+            href: https://github.com/jesusbautistahurtado2/machinelearningsystem
             target: _blank

@@ -11,7 +11,7 @@ to enlarge it.
 This script rewrites each lightbox <a href="HASH.svg"> to use the path from
 the child <img src>, making the enlarged-view link resolve correctly.
 
-Fixes: https://github.com/harvard-edge/cs249r_book/issues/1795
+Fixes: https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1795
 """
 
 import os

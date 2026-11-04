@@ -74,7 +74,7 @@ python3 scripts/pdf2pptx.py _build/vol3/*.pdf --output-dir _build/vol3
 
 ### Editing
 
-1. Fork the [repository](https://github.com/harvard-edge/cs249r_book).
+1. Fork the [repository](https://github.com/jesusbautistahurtado2/machinelearningsystem).
 2. Edit `<deck>.tex`, or change a plot in `images/make_figs.py` and run it.
 3. Rebuild the deck and look at every page you changed.
 

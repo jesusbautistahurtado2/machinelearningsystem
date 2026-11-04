@@ -20,7 +20,7 @@ import urllib.request
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "harvard-edge/cs249r_book")
+REPO = os.environ.get("GITHUB_REPOSITORY", "jesusbautistahurtado2/machinelearningsystem")
 
 # Abbreviations and short forms people write, mapped to a Hipo domain.
 ALIAS = {

@@ -330,7 +330,7 @@ Implementation: `binder/cli/commands/validate.py` (`_run_epub_hygiene`, `_run_ep
 
 Runs in <1s across all SVG and BibTeX files under `books/`. No EPUB build required. Wired into the pre-commit hook `book-epub-hygiene`.
 
-Catches the four source-level patterns that historically broke builds in April 2026 (issues [#1014](https://github.com/harvard-edge/cs249r_book/issues/1014), [#1052](https://github.com/harvard-edge/cs249r_book/issues/1052), [#1148](https://github.com/harvard-edge/cs249r_book/issues/1148)):
+Catches the four source-level patterns that historically broke builds in April 2026 (issues [#1014](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1014), [#1052](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1052), [#1148](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1148)):
 
 | Code | What it catches | Symptom at epubcheck time |
 |---|---|---|

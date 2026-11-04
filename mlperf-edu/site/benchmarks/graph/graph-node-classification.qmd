@@ -134,4 +134,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.graph:run_graph_node_classification_min` |
 | max | `mlperf.runners.graph:run_graph_node_classification_max` |
 
-Registry source: [`registry/suites/graph/graph-node-classification.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/graph/graph-node-classification.yaml)
+Registry source: [`registry/suites/graph/graph-node-classification.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/graph/graph-node-classification.yaml)

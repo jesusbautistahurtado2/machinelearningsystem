@@ -6,7 +6,7 @@ title: "For Instructors"
 TinyTorch's instructor workflows, grading harness, and nbgrader integrations are currently undergoing active pilot testing and pedagogical evaluation. Turn-key classroom packages, LMS grading templates, and autograding infrastructure will be ready for official course adoption in 2027.
 :::
 
-TinyTorch runs as a course: twenty modules, seven milestones, autograded notebooks through nbgrader, and a companion book. The full reference, including grading policy and the hardware extensions, is [`INSTRUCTOR.md`](https://github.com/harvard-edge/cs249r_book/blob/main/tinytorch/INSTRUCTOR.md) in the repository.
+TinyTorch runs as a course: twenty modules, seven milestones, autograded notebooks through nbgrader, and a companion book. The full reference, including grading policy and the hardware extensions, is [`INSTRUCTOR.md`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/tinytorch/INSTRUCTOR.md) in the repository.
 
 ## What students write
 
@@ -29,8 +29,8 @@ Each module's source marks its solution regions. The student release clears the 
 ## Set up grading
 
 ```bash
-git clone https://github.com/harvard-edge/cs249r_book.git
-cd cs249r_book/tinytorch
+git clone https://github.com/jesusbautistahurtado2/machinelearningsystem.git
+cd machinelearningsystem/tinytorch
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt

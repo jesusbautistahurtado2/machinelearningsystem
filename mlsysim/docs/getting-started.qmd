@@ -20,7 +20,7 @@ For development or to follow along with tutorials locally:
 
 ```bash
 git clone {{< var github_repo >}}
-cd cs249r_book/mlsysim
+cd machinelearningsystem/mlsysim
 pip install -e ".[dev]"
 ```
 

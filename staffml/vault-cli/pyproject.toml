@@ -45,8 +45,8 @@ vault = "vault_cli.main:app"
 
 [project.urls]
 Homepage = "https://staffml.mlsysbook.ai"
-Architecture = "https://github.com/harvard-edge/cs249r_book/blob/dev/staffml/vault/ARCHITECTURE.md"
-Review-Ledger = "https://github.com/harvard-edge/cs249r_book/blob/dev/staffml/vault/REVIEWS.md"
+Architecture = "https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/staffml/vault/ARCHITECTURE.md"
+Review-Ledger = "https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/dev/staffml/vault/REVIEWS.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/vault_cli"]

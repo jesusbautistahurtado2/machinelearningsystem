@@ -8,7 +8,7 @@
 >
 > This instructor site shipped with the **2026** MLSysBook refresh and is **actively iterated**: syllabi, rubrics, layouts, and diagrams (including SVGs) will keep improving as we teach from it.
 >
-> **Feedback** — [GitHub issues](https://github.com/harvard-edge/cs249r_book/issues) or pull requests.
+> **Feedback** — [GitHub issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or pull requests.
 <!-- EARLY-RELEASE-CALLOUT:END -->
 
 ---

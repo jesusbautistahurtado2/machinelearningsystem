@@ -131,4 +131,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.tiny:run_anomaly_detection_min` |
 | max | `mlperf.runners.tiny:run_anomaly_detection_max` |
 
-Registry source: [`registry/suites/tiny/anomaly-detection.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/tiny/anomaly-detection.yaml)
+Registry source: [`registry/suites/tiny/anomaly-detection.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/tiny/anomaly-detection.yaml)

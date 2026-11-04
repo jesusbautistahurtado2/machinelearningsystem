@@ -73,7 +73,7 @@ The most reliable signal of someone who works across boundaries is **how they de
 
 Seeing the gap is one thing. Closing it requires building across layers yourself.
 
-At Harvard, I have been building an ML framework from scratch with the support of a global community of [contributors](https://github.com/harvard-edge/cs249r_book?tab=readme-ov-file#-tinytorch-contributors) who file bugs, open pull requests, and sharpen the material. It is called [TinyTorch](https://mlsysbook.ai/tinytorch/), and it is 20 modules that walk you from raw tensor operations to a working transformer, and then through profiling, quantization, pruning, and hardware acceleration. You build autograd by hand and discover why `loss.backward()` is expensive. You write tensor storage and see why memory layout determines GPU throughput. You implement an optimizer and learn firsthand that Adam stores 3x the memory of SGD. Then you profile, quantize, and accelerate what you built. That last part is where most curricula stop.
+At Harvard, I have been building an ML framework from scratch with the support of a global community of [contributors](https://github.com/jesusbautistahurtado2/machinelearningsystem?tab=readme-ov-file#-tinytorch-contributors) who file bugs, open pull requests, and sharpen the material. It is called [TinyTorch](https://mlsysbook.ai/tinytorch/), and it is 20 modules that walk you from raw tensor operations to a working transformer, and then through profiling, quantization, pruning, and hardware acceleration. You build autograd by hand and discover why `loss.backward()` is expensive. You write tensor storage and see why memory layout determines GPU throughput. You implement an optimizer and learn firsthand that Adam stores 3x the memory of SGD. Then you profile, quantize, and accelerate what you built. That last part is where most curricula stop.
 
 You cannot debug what you did not build. I keep saying this because it keeps being true. The only reliable path from the top of the stack to the bottom is to have built something at every layer along the way.
 
@@ -99,4 +99,4 @@ Vijay
 
 *This newsletter closes the builder's gap in public, essay by essay, from silicon to serving. Forward this to someone debugging a system they cannot see through. If you are not on the list yet, [subscribe](https://mlsysbook.ai/book/#subscribe). The next essay goes to the fleet, with more to follow on benchmarks, inference, and the return of the hardware lottery.*
 
-[MLSysBook](https://mlsysbook.ai) · [Subscribe](https://mlsysbook.ai/book/#subscribe) · [TinyTorch](https://mlsysbook.ai/tinytorch/) · [GitHub](https://github.com/harvard-edge/cs249r_book)
+[MLSysBook](https://mlsysbook.ai) · [Subscribe](https://mlsysbook.ai/book/#subscribe) · [TinyTorch](https://mlsysbook.ai/tinytorch/) · [GitHub](https://github.com/jesusbautistahurtado2/machinelearningsystem)

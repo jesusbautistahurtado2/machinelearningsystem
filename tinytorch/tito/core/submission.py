@@ -26,7 +26,7 @@ from . import runtime
 from .config import CLIConfig
 
 # Where users should report sync problems (kept in one place).
-ISSUE_URL = "https://github.com/harvard-edge/cs249r_book/issues/1849"
+ISSUE_URL = "https://github.com/jesusbautistahurtado2/machinelearningsystem/issues/1849"
 
 # ---------------------------------------------------------------------------
 # Sync consent and opt-out

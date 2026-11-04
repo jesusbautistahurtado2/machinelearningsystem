@@ -29,5 +29,5 @@ export const IS_LIVE_DEPLOY = !/cs249r_book_dev/.test(ECOSYSTEM_BASE);
  * covers local `next dev`.
  */
 export const GITHUB_REPOSITORY =
-  process.env.NEXT_PUBLIC_GITHUB_REPOSITORY || "harvard-edge/cs249r_book";
+  process.env.NEXT_PUBLIC_GITHUB_REPOSITORY || "jesusbautistahurtado2/machinelearningsystem";
 export const GITHUB_REPO_URL = `https://github.com/${GITHUB_REPOSITORY}`;

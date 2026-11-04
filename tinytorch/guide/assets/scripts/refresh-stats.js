@@ -16,7 +16,7 @@
   var nodes = document.querySelectorAll('[data-stat="stars"]');
   if (!nodes.length) return;
 
-  fetch('https://api.github.com/repos/harvard-edge/cs249r_book')
+  fetch('https://api.github.com/repos/jesusbautistahurtado2/machinelearningsystem')
     .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
     .then(function (d) {
       if (!d || typeof d.stargazers_count !== 'number') return;

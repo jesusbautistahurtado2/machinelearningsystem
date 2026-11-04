@@ -259,7 +259,7 @@ website:
       - text: |
           <span class="release-pill" data-release-pill></span>
       - icon: github
-        href: "https://github.com/harvard-edge/cs249r_book"
+        href: "https://github.com/jesusbautistahurtado2/machinelearningsystem"
         aria-label: "View source on GitHub"
     background: light
     border: true

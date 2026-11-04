@@ -320,7 +320,7 @@ TinyTorch is part of the broader [ML Systems Book](https://mlsysbook.ai) ecosyst
 
 ```
 
-**[View all 40+ contributors on GitHub →](https://github.com/harvard-edge/cs249r_book/graphs/contributors)**
+**[View all 40+ contributors on GitHub →](https://github.com/jesusbautistahurtado2/machinelearningsystem/graphs/contributors)**
 
 ## License
 
@@ -334,15 +334,15 @@ TinyTorch is open source and we welcome contributors of all experience levels.
 
 **Ways to get involved:**
 
-- 🪲 **Found a bug?** [Report it on GitHub](https://github.com/harvard-edge/cs249r_book/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/harvard-edge/cs249r_book/discussions)
-- 🧑‍💻 **Want to contribute code?** [See our contributing guide](https://github.com/harvard-edge/cs249r_book/blob/main/CONTRIBUTING.md)
+- 🪲 **Found a bug?** [Report it on GitHub](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)
+- 💡 **Have an idea?** [Start a discussion](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)
+- 🧑‍💻 **Want to contribute code?** [See our contributing guide](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/CONTRIBUTING.md)
 - ✍️ **Improve documentation?** Submit a pull request
 
 **Get recognized:** Comment on any issue or PR with `@all-contributors please add @username for bug, code, doc, or ideas`
 
 ## Contact
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/harvard-edge/cs249r_book/issues)
-- **GitHub Discussions**: [Ask questions or share ideas](https://github.com/harvard-edge/cs249r_book/discussions)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues)
+- **GitHub Discussions**: [Ask questions or share ideas](https://github.com/jesusbautistahurtado2/machinelearningsystem/discussions)
 - **Project Lead**: [Prof. Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi) · Harvard University

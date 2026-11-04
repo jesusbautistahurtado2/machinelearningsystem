@@ -7,9 +7,9 @@ toc: false
 
 ```{=html}
 <div class="action-row">
-  <a href="https://github.com/harvard-edge/cs249r_book/releases/tag/slides-latest" class="btn-accent">Download the decks</a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/releases/tag/slides-latest" class="btn-accent">Download the decks</a>
   <a href="teaching.html" class="btn-outline">Teaching guide</a>
-  <a href="https://github.com/harvard-edge/cs249r_book/tree/dev/slides" class="btn-outline">Source</a>
+  <a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/dev/slides" class="btn-outline">Source</a>
 </div>
 
 <div class="section-header">Decks</div>

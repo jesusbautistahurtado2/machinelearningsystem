@@ -31,7 +31,7 @@ from ..base import BaseCommand
 class UpdateCommand(BaseCommand):
     """Check for and install TinyTorch updates."""
 
-    REPO = "harvard-edge/cs249r_book"
+    REPO = "jesusbautistahurtado2/machinelearningsystem"
     REPO_URL = f"https://github.com/{REPO}.git"
     TAGS_API = f"https://api.github.com/repos/{REPO}/tags?per_page=100"
     TAG_PREFIX = "tinytorch-v"

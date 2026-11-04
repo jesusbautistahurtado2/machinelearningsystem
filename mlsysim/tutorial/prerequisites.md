@@ -31,8 +31,8 @@ pip install mlsysim
 ### Option B: Install from source (for tutorial development)
 
 ```bash
-git clone https://github.com/harvard-edge/cs249r_book.git
-cd cs249r_book/mlsysim
+git clone https://github.com/jesusbautistahurtado2/machinelearningsystem.git
+cd machinelearningsystem/mlsysim
 pip install -e ".[full]"
 ```
 

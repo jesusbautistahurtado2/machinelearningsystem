@@ -14,8 +14,8 @@
 
 <br><br>
 
-<a href="https://github.com/harvard-edge/cs249r_book"><img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=social" alt="GitHub Stars"></a>
-<a href="https://github.com/harvard-edge/cs249r_book/actions/workflows/staffml-publish-live.yml"><img src="https://github.com/harvard-edge/cs249r_book/actions/workflows/staffml-publish-live.yml/badge.svg" alt="StaffML Deploy"></a>
+<a href="https://github.com/jesusbautistahurtado2/machinelearningsystem"><img src="https://img.shields.io/github/stars/jesusbautistahurtado2/machinelearningsystem?style=social" alt="GitHub Stars"></a>
+<a href="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/staffml-publish-live.yml"><img src="https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/staffml-publish-live.yml/badge.svg" alt="StaffML Deploy"></a>
 <a href="https://mlsysbook.ai"><img src="https://img.shields.io/badge/part_of-MLSysBook.ai-a31f34" alt="MLSysBook.ai"></a>
 
 </div>
@@ -26,7 +26,7 @@
 >
 > StaffML shipped with the **2026** MLSysBook refresh. The vault, web apps, and question flows are **still changing** as we test them against real interviews. Expect updates to content, UX, and scoring.
 >
-> **Feedback:** [GitHub issues](https://github.com/harvard-edge/cs249r_book/issues) or pull requests.
+> **Feedback:** [GitHub issues](https://github.com/jesusbautistahurtado2/machinelearningsystem/issues) or pull requests.
 <!-- EARLY-RELEASE-CALLOUT:END -->
 
 ---
@@ -50,7 +50,7 @@ StaffML is a free, open-source interview prep platform for ML systems engineers.
 </table>
 
 > [!TIP]
-> If StaffML helps your prep, **[give us a star](https://github.com/harvard-edge/cs249r_book)**. Stars help others find this resource.
+> If StaffML helps your prep, **[give us a star](https://github.com/jesusbautistahurtado2/machinelearningsystem)**. Stars help others find this resource.
 
 **Data:** question YAMLs in [`vault/questions/`](vault/questions/), tagged with the [ML Systems Taxonomy](https://mlsysbook.ai/taxonomy/) (`taxonomy_subject`, `taxonomy_concepts`) · **App source:** [`app/`](app/)
 
@@ -359,7 +359,7 @@ npm run dev         # → http://localhost:3000
 python3 scripts/generate-manifest.py
 ```
 
-**CI/CD:** Pushes to `dev` auto-build and deploy via [GitHub Actions](https://github.com/harvard-edge/cs249r_book/actions/workflows/staffml-preview-dev.yml).
+**CI/CD:** Pushes to `dev` auto-build and deploy via [GitHub Actions](https://github.com/jesusbautistahurtado2/machinelearningsystem/actions/workflows/staffml-preview-dev.yml).
 
 ---
 

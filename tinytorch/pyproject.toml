@@ -78,9 +78,9 @@ doc_baseurl = "/TinyTorch/"
 
 [project.urls]
 Homepage = "https://mlsysbook.ai/tinytorch"
-Repository = "https://github.com/harvard-edge/cs249r_book"
+Repository = "https://github.com/jesusbautistahurtado2/machinelearningsystem"
 Documentation = "https://mlsysbook.ai/tinytorch"
-Issues = "https://github.com/harvard-edge/cs249r_book/issues"
+Issues = "https://github.com/jesusbautistahurtado2/machinelearningsystem/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

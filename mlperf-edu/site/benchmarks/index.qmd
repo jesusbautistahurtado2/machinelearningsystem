@@ -11,7 +11,7 @@ toc: true
 **Independent preview.** MLPerf EDU is not an official MLCommons benchmark and is not endorsed by MLCommons. Registry result labels are candidate classifications for review, not accepted MLPerf result categories.
 :::
 
-MLPerf EDU currently registers **14 workloads** in **14 families** across **7 suites**. Every page in this section is generated from the [workload registry](https://github.com/harvard-edge/cs249r_book/tree/main/mlperf-edu/registry); the registry YAML is the single source of truth for models, datasets, quality targets, and public-result status.
+MLPerf EDU currently registers **14 workloads** in **14 families** across **7 suites**. Every page in this section is generated from the [workload registry](https://github.com/jesusbautistahurtado2/machinelearningsystem/tree/main/mlperf-edu/registry); the registry YAML is the single source of truth for models, datasets, quality targets, and public-result status.
 
 ## Portfolio Design
 

@@ -136,4 +136,4 @@ See [Reading Results](../../guide/results.qmd) for how to interpret them.
 | min | `mlperf.runners.nanogpt:run_causal_language_modeling_min` |
 | max | `mlperf.runners.nanogpt:run_causal_language_modeling_max` |
 
-Registry source: [`registry/suites/language/causal-language-modeling.yaml`](https://github.com/harvard-edge/cs249r_book/blob/main/mlperf-edu/registry/suites/language/causal-language-modeling.yaml)
+Registry source: [`registry/suites/language/causal-language-modeling.yaml`](https://github.com/jesusbautistahurtado2/machinelearningsystem/blob/main/mlperf-edu/registry/suites/language/causal-language-modeling.yaml)
